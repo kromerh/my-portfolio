@@ -2,7 +2,7 @@
   <div class="main-wrapper">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#about">
-        <span class="d-block d-lg-none">Start Bootstrap</span>
+        <span class="d-block d-lg-none">Heiko Kromer</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="./assets/profile.jpg" alt="">
         </span>
@@ -84,7 +84,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
-          <h2 class="mb-5">Experience</h2>
+          <h3 class="mb-5">Experience</h3>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5" v-for="job in experience" :key="job.description">
             <div class="resume-content mr-auto">
@@ -103,7 +103,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
         <div class="my-auto">
-          <h2 class="mb-5">Education</h2>
+          <h3 class="mb-5">Education</h3>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
@@ -180,77 +180,54 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
-          <h2 class="mb-5">Skills</h2>
+          <h3 class="mb-5">Skills</h3>
 
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
           <ul class="fa-ul mb-4">
             <li class="mb-3"><i class="fa-li fa fa-check"></i>
-              <h2>Python3 <i class="devicons devicons-python"></i></h2>
+              <h5>Python3 <i class="devicons devicons-python"></i></h5>
               Level: <span class="text-primary">Proficient user</span><br>
               Experience with: <span class="text-primary">pandas, jupyter, NumPy, sciPy, scikit-learn, matplotlib, plotly, flask, dash</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-            <h2>Linux <i class="devicons devicons-linux></i></h2>
+            <h5>Linux <i class="devicons devicons-linux"></i></h5>
             Level: <span class="text-primary">Proficient user</span><br>
             Experience with: <span class="text-primary">OpenSuse, Redhat, Ubuntu</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-            <h2>Microsoft Windows and Office <i class="devicons devicons-windows"></i></h2>
+            <h5>Microsoft Windows and Office <i class="devicons devicons-windows"></i></h5>
             Level: <span class="text-primary">Proficient User</span><br>
             Experience with: <span class="text-primary">Windows 2000, 7, 10</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-            <h2>SQL <i class="devicons devicons-mysql"></i></h2>
+            <h5>SQL <i class="devicons devicons-mysql"></i></h5>
             Level: <span class="text-primary">Intermediate</span><br>
             Experience with: <span class="text-primary">MySQL, Cloudant</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-            <h2>Latex <i class="devicon-latex-plain"></i></h2>
+            <h5>Latex <i class="devicon-latex-plain"></i></h5>
             Level: <span class="text-primary">Intermediate</span><br>
             Experience with: <span class="text-primary">TeX Studio</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-            <h2>Git <i class="devicon-git-plain"></i></h2>
+            <h5>Git <i class="devicon-git-plain"></i></h5>
             Level: <span class="text-primary">Intermediate</span><br>
             Experience with: <span class="text-primary"><a href='https://github.com/kromerh'>GitHub</a>, bitbucket</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-              <h2>C++ <i class="devicon-cplusplus-plain"></i></h2>
+              <h5>C++ <i class="devicon-cplusplus-plain"></i></h5>
               Level: <span class="text-primary">Upper-beginner</span><br>
               Experience with: <span class="text-primary">Arduino IDE</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
-              <h2>Apache Spark <i class="devicons devicons-spark"></i></h2>
+              <h5>Apache Spark <i class="devicons devicons-spark"></i></h5>
               Level: <span class="text-primary">Upper-beginner</span><br>
               Experience with: <span class="text-primary">IBM IoT DataScience Experience</span>
           </li>
 
           </ul>
-          </div>
 
           <div class="subheading mb-3">Scientific Codes &amp; Tools</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Monte Carle Nuclear Transport Code (MCNP6)</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              COMSOL Multiphysics CFD, heat transfer, electrostatics, and charged particle tracking module</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              SolidWorks 2018</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Wolfram Mathematica</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              MATLAB</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              LabView</li>
-          </ul>
-
-          <div class="subheading mb-3">Languages</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
@@ -277,7 +254,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
-          <h2 class="mb-5">Interests</h2>
+          <h3 class="mb-5">Interests</h3>
           <p>Apart from being a doctoral student and expanding my skillset with eLearning courses on Coursera and Datacamp, I enjoy most of my time being physically active. In the winter, I am an avid cross country skiier. During the warmer months, I enjoy hiking in the Swiss Alps, running, and biking. Throughout the year I follow the INSANITY programs in addition to fitness boxing.</p>
           <p class="mb-0">When forced indoors, I enjoy a good book and I follow a number of podcasts to explore the latest technology advancements in data science, critical thinking, astrophysics, or self improvement strategies. I am an aspiring chef, and I spend a large amount of my free time tinkering with a RaspberryPi, Arduino, or ESP8266.</p>
         </div>
@@ -285,7 +262,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
-          <h2 class="mb-5">Awards &amp; Certifications</h2>
+          <h3 class="mb-5">Awards &amp; Certifications</h3>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
