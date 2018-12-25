@@ -36,8 +36,9 @@ This will not work, because by default the default path of the github pages is k
 
 # ToDo
 
-- [ ] Add Projects
 - [ ] Add languages
 - [ ] Add publications
+- [ ] Add Projects
 - [ ] Check social links
 - [ ] Add Coursera
+

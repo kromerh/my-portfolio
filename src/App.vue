@@ -202,7 +202,7 @@
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
             <h5>SQL <i class="devicons devicons-mysql"></i></h5>
             Level: <span class="text-primary">Intermediate</span><br>
-            Experience with: <span class="text-primary">MySQL, Cloudant</span>
+            Experience with: <span class="text-primary">MySQL</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
             <h5>Latex <i class="devicon-latex-plain"></i></h5>
