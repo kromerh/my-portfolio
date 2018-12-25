@@ -18,3 +18,5 @@ https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-
 
 - Install libraries:
   - `npm install --save bootstrap font-awesome devicons devicon-2.2`
+  
+- Adapt App.vue and main.js according to tutorial steps
