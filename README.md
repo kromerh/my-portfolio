@@ -28,3 +28,10 @@ https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-
  - `npm install --save prerender-spa-plugin`
 
 - build: `npm run build`
+
+
+# ToDo
+===
+- [ ] Add Projects
+- [ ] Add languages
+- [ ] Add publications
