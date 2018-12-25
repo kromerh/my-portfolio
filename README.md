@@ -39,3 +39,4 @@ https://github.com/derwentx/portfolio-files
 - [ ] Add Projects
 - [ ] Add languages
 - [ ] Add publications
+- [ ] Check social links
