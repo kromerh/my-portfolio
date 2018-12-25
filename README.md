@@ -1,6 +1,10 @@
 ## Adapted from tutorial:
 https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-it-on-github-d5c4da43cf2f
 
+## Other github cv pages with thanks to:
+https://github.com/oleg-agapov/my-portfolio
+https://github.com/derwentx/portfolio-files
+
 ## Steps to create the files locally
 - Initiate the vue
   - `vue init webpack my-portfolio`

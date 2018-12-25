@@ -183,27 +183,74 @@
           <h2 class="mb-5">Skills</h2>
 
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-check"></i> Python3 <i class="devicons devicons-python"></i> (pandas, sciPy, matplotlib, plotly, flask, dash, scikit-learn, jupyter)</li>
-            <li>
-              <i class="fa-li fa fa-check"></i> C++ <i class="devicon-cplusplus-plain"></i></li>
-            <li>
-              <i class="fa-li fa fa-check"></i> SQL <i class="devicons devicons-mysql"></i></li>
-            <li>
-              <i class="fa-li fa fa-check"></i> Linux (OpenSUSE, Redhat, Ubuntu)<i class="devicons devicons-linux"></i></li>
-            <li>
-              <i class="fa-li fa fa-check"></i> Git (<a href='https://github.com/kromerh'>GitHub</a>, bitbucket) <i class="devicons devicons-github"></i></li>
-           <li>
-              <i class="fa-li fa fa-check"></i> Apache Spark <i class="devicons devicons-spark"></i></li>
-           <li>
-              <i class="fa-li fa fa-check"></i> Latex <i class="devicons devicons-latex"></i></li>
-           <li>
-              <i class="fa-li fa fa-check"></i> Microsoft Windows and Office <i class="devicons devicons-windows"></i></li>
+          <ul class="fa-ul mb-4">
+            <li class="mb-3"><i class="fa-li fa fa-check"></i>
+              <h2>Python3 <i class="devicons devicons-python"></i></h2>
+              Level: <span class="text-primary">Proficient user</span><br>
+              Experience with: <span class="text-primary">pandas, jupyter, NumPy, sciPy, scikit-learn, matplotlib, plotly, flask, dash</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+            <h2>Linux <i class="devicons devicons-linux></i></h2>
+            Level: <span class="text-primary">Proficient user</span><br>
+            Experience with: <span class="text-primary">OpenSuse, Redhat, Ubuntu</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+            <h2>Microsoft Windows and Office <i class="devicons devicons-windows"></i></h2>
+            Level: <span class="text-primary">Proficient User</span><br>
+            Experience with: <span class="text-primary">Windows 2000, 7, 10</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+            <h2>SQL <i class="devicons devicons-mysql"></i></h2>
+            Level: <span class="text-primary">Intermediate</span><br>
+            Experience with: <span class="text-primary">MySQL, Cloudant</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+            <h2>Latex <i class="devicon-latex-plain"></i></h2>
+            Level: <span class="text-primary">Intermediate</span><br>
+            Experience with: <span class="text-primary">TeX Studio</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+            <h2>Git <i class="devicon-git-plain"></i></h2>
+            Level: <span class="text-primary">Intermediate</span><br>
+            Experience with: <span class="text-primary"><a href='https://github.com/kromerh'>GitHub</a>, bitbucket</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+              <h2>C++ <i class="devicon-cplusplus-plain"></i></h2>
+              Level: <span class="text-primary">Upper-beginner</span><br>
+              Experience with: <span class="text-primary">Arduino IDE</span>
+          </li>
+          <li class="mb-3"><i class="fa-li fa fa-check"></i>
+              <h2>Apache Spark <i class="devicons devicons-spark"></i></h2>
+              Level: <span class="text-primary">Upper-beginner</span><br>
+              Experience with: <span class="text-primary">IBM IoT DataScience Experience</span>
+          </li>
+
           </ul>
-          <br>
+          </div>
 
           <div class="subheading mb-3">Scientific Codes &amp; Tools</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Monte Carle Nuclear Transport Code (MCNP6)</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              COMSOL Multiphysics CFD, heat transfer, electrostatics, and charged particle tracking module</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              SolidWorks 2018</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Wolfram Mathematica</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              MATLAB</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              LabView</li>
+          </ul>
+
+          <div class="subheading mb-3">Languages</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
