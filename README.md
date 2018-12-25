@@ -21,18 +21,18 @@ https://github.com/derwentx/portfolio-files
 
 
 - Install libraries:
-  - `npm install --save bootstrap font-awesome devicons devicon-2.2`
+  - `npm install --save bootstrap font-awesome devicons devicon-2.2 jquery jquery.easing popper.js prerender-spa-plugin`
 
-- Adapt App.vue and main.js, as well as index.html according to tutorial steps
-  - `npm install --save jquery jquery.easing popper.js`
+- Adapt App.vue and main.js, webpack.prod.conf.js, as well as index.html according to tutorial (or content in this repo!)
 
-- set up resume.css (taken from https://github.com/derwentx/portfolio-files)
+- set up src/assets/resume.css (taken from https://github.com/derwentx/portfolio-files)
 
-- follow the steps in the tutorial
- - `npm install --save prerender-spa-plugin`
-
+- dev: `npm run dev`
 - build: `npm run build`
 
+## Note on hosting repository github sites:
+
+This will not work, because by default the default path of the github pages is kromerh/css... so when the page is looking for the css, it will start from this path and not go down into the repository. If for another user this page should be created, host it in the github pages. Or look for a workaround to this.
 
 # ToDo
 
