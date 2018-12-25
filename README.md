@@ -31,7 +31,7 @@ https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-
 
 
 # ToDo
-===
+
 - [ ] Add Projects
 - [ ] Add languages
 - [ ] Add publications
