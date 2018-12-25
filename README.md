@@ -24,4 +24,6 @@ https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-
 
 - set up resume.css (taken from https://github.com/derwentx/portfolio-files)
 
-- build: `npm run build`
+- follow the steps in the tutorial
+
+- build: `npm run build
