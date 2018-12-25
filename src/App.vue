@@ -256,12 +256,16 @@
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Excellence Scholarship - September 2013 until September 2015</li>
-              <p>European Institute of Innovation and Technology (EIT), KIC InnoEnergy, EU Commission</p>
-              <p>Awarded the Excellence Scholarship for the Double Degree Master of Science "European Master in Nuclear Energy" (EMINE) (corresponding to ~23 000 CHF)</p>
+              <p>European Institute of Innovation and Technology (EIT), KIC InnoEnergy, EU Commission <br>
+              Awarded the Excellence Scholarship for the Double Degree Master of Science "European Master in Nuclear Energy" (EMINE) (corresponding to ~23 000 CHF)</p>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Reiss-Engelhorn Foundation Scholarship - October 2009 until October 2012</li>
               <p>Reiss-Engelhorn Foundation</p>
+           <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              Award for outstanding high school performance (1.0 / 6.0)</li>
+              <p>Kolleg St. Sebastian Stegen</p>
           </ul>
         </div>
       </section>
@@ -286,7 +290,7 @@ export default {
           company: 'Paul Scherrer Institute in Villigen, Switzerland',
           description: 'Optimization of a compact deuterium-deuterium fast neutron generator for imaging applications.',
           startDate: 'February 2016',
-          endDate: 'February 2019'
+          endDate: 'February 2020 (expected)'
         },
         {
           position: 'Co-Vice President of Technology',
