@@ -40,3 +40,4 @@ https://github.com/derwentx/portfolio-files
 - [ ] Add languages
 - [ ] Add publications
 - [ ] Check social links
+- [ ] Add Coursera
