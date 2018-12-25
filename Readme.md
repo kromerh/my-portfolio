@@ -16,4 +16,4 @@ https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-
 
 
 - install libraries:
-  - npm install --save bootstrap font-awesome devicons devicons-2.2`
+  - `npm install --save bootstrap font-awesome devicons devicons-2.2`
