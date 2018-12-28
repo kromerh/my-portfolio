@@ -8,6 +8,7 @@ require('jquery.easing')
 
 require('../node_modules/bootstrap/dist/css/bootstrap.css')
 require('../node_modules/devicons/css/devicons.css')
+require('../node_modules/flag-icon-css/css/flag-icon.css')
 require('../node_modules/devicon-2.2/devicon.css')
 require('../node_modules/font-awesome/css/font-awesome.css')
 

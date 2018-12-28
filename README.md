@@ -21,7 +21,7 @@ https://github.com/derwentx/portfolio-files
 
 
 - Install libraries:
-  - `npm install --save bootstrap font-awesome devicons devicon-2.2 jquery jquery.easing popper.js prerender-spa-plugin`
+  - `npm install --save bootstrap font-awesome devicons devicon-2.2 jquery jquery.easing popper.js prerender-spa-plugin flag-icon-css`
 
 - Adapt App.vue and main.js, webpack.prod.conf.js, as well as index.html according to tutorial (or content in this repo!)
 
@@ -36,7 +36,7 @@ This will not work, because by default the default path of the github pages is k
 
 # ToDo
 
-- [ ] Add languages
+- [x] Add languages
 - [ ] Add publications
 - [ ] Add Projects
 - [ ] Check social links

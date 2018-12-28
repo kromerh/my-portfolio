@@ -91,6 +91,9 @@
               <h3 class="mb-0">{{ job.position }}</h3>
               <div class="subheading mb-3">{{ job.company }}</div>
               <p>{{ job.description }}</p>
+              <ul>
+                <li v-for="(item, index) in job.items" :key="index">{{ item }}</li>
+              </ul>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">{{ job.startDate }} - {{ job.endDate }}</span>
@@ -107,9 +110,20 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Swiss Federal Institute of Technology Zürich (ETH) in Zürich, Switzerland</h3>
+              <h3 class="mb-0">Swiss Federal Institute of Technology (ETH) in Zürich, Switzerland</h3>
               <div class="subheading mb-3">Doctor of Philosophy in Nuclear Engineering</div>
-              <p> </p>
+              <p>Thesis title: Optimization of a compact deuterium-deuterium fast neutron generator for imaging applications. Thesis registered under the supervision of Prof. Dr. Horst-Michael Prasser at the Laboratory of Nuclear Energy Systems at the Swiss Federal Institute of Technology (ETH) Zürich.</p>
+              <ul>
+                <li>Set up a Python-based real time data acquisition system into a MySQL database using RaspberryPis</li>
+                <li>Developed and deployed a real time data visualization tool using flask, dash and plotly using SQL queries to monitor the fast neutron generator system</li>
+                <li>Evaluated neutron transport calculations using MCNP6 and post-processed them in Python</li>
+                <li>Designed and implemented mechanical upgrades to the fast neutron generator system</li>
+                <li>Supervised Bachelor and Master students</li>
+                <li>Prepared and evaluated COMSOL Multiphysics simulations using the CFD, heat transfer, electrostatics, and charged particle tracking modules</li>
+                <li>Published journal papers in international peer reviewed journals</li>
+                <li>Attended international scientific conferences as speaker</li>
+                <li>Lead exercise sessions as teaching assistant and participated in oral examinations as third co-examiner</li>
+              </ul>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">February 2016 - February 2020</span>
@@ -249,6 +263,24 @@
               LabView</li>
           </ul>
 
+          <br>
+          <div class="subheading mb-3">Languages</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="flag-icon flag-icon-de"></i>
+              German: Native proficiency</li>
+            <li>
+              <i class="flag-icon flag-icon-gb"></i>
+              English: Full professional proficiency</li>
+            <li>
+              <i class="flag-icon flag-icon-fr"></i>
+              French: Elementary proficiency</li>
+            <li>
+            <li>
+              <i class="flag-icon flag-icon-se"></i>
+              Swedish: Limited working proficiency</li>
+          </ul>
+
         </div>
       </section>
 
@@ -307,19 +339,37 @@ export default {
       surname: 'Kromer',
       address: '+41 (0) 77 476 99 79 ·',
       email: 'heiko.kromer@gmail.com',
-      aboutMe: 'I am a doctoral student in Nuclear Engineering at the Swiss Federal Institute of Technology (ETH) in Zürich. In my project I am optimizing the mechanical design of a compact deuterium-deuterium fast neutron generator for imaging applications. I am planning, conducting and analyzing experiments and employing computational tools including Python, MCNP6 and COMSOL Multiphysics to improve the high voltage, high vacuum, ion optics, heat transfer, and overall design of the neutron generator. During my education as a physicist and engineer I learned to acquire, visualize, analyze and interpret large datasets to solve a wide array of challenging problems. I work as ...',
+      aboutMe: 'I am a doctoral student in Nuclear Engineering at the Swiss Federal Institute of Technology (ETH) in Zürich. In my project I am optimizing the mechanical design of a compact deuterium-deuterium fast neutron generator for imaging applications. I am planning, conducting and analyzing experiments and employing computational tools including Python, MCNP6 and COMSOL Multiphysics to improve the high voltage, high vacuum, ion optics, heat transfer, and overall design of the neutron generator. During my education as a physicist and engineer I learned to acquire, visualize, analyze and interpret large datasets to solve a wide array of challenging problems.',
       experience: [
         {
           position: 'Doctoral Student',
           company: 'Paul Scherrer Institute in Villigen, Switzerland',
-          description: 'Optimization of a compact deuterium-deuterium fast neutron generator for imaging applications.',
+          description: 'Thesis title: Optimization of a compact deuterium-deuterium fast neutron generator for imaging applications. Thesis registered under the supervision of Prof. Dr. Horst-Michael Prasser at the Laboratory of Nuclear Energy Systems at the Swiss Federal Institute of Technology (ETH) Zürich.',
+          items: [
+            'Set up a Python-based real time data acquisition system into a MySQL database using RaspberryPis',
+            'Developed and deployed a real time data visualization tool using flask, dash and plotly using SQL queries to monitor the fast neutron generator system',
+            'Evaluated neutron transport calculations using MCNP6 and post-processed them in Python',
+            'Designed and implemented mechanical upgrades to the fast neutron generator system',
+            'Supervised Bachelor and Master students',
+            'Prepared and evaluated COMSOL Multiphysics simulations using the CFD, heat transfer, electrostatics, and charged particle tracking modules',
+            'Published journal papers in international peer reviewed journals',
+            'Attended international scientific conferences as speaker'
+            ],
           startDate: 'February 2016',
-          endDate: 'February 2020 (expected)'
+          endDate: 'February 2020'
         },
         {
           position: 'Co-Vice President of Technology',
           company: 'Telejob (AVETH) in Zürich, Switzerland',
-          description: 'MySQL, Linux web server, Google G-suite, administration of cloud based communication platforms, support of ETH-gethired JIRA, data analysis with Google Analytics',
+          description: 'I am currently serving as Co-Vice President of Technology and Head of Data Analytics at Telejob. Telejob is a non-profit organization of ETH Zürich, which aims to reach and connect students and employers - companies as well as universities - in Switzerland. Telejob is run mainly by student volunteers.',
+          items: [
+            'Implemented and supported Google G-Suite in the organization',
+            'Took on the role of administrator of Linux based web servers and MySQL databases',
+            'Prepared MySQL queries to provide data insights to fellow team members',
+            'Managed IT projects in the organization, learning first-hand the importance of rigid version control in collaborative software development projects',
+            'Processed Google Analytics outputs of the job platform ETH-GetHired.ch to report to stakeholders as well as working towards the use of natural language text processing'
+
+          ],
           startDate: 'November 2017',
           endDate: 'February 2019'
         },
