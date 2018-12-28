@@ -299,29 +299,28 @@
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Best Paper Award NES PhD Day - May 2017
-              <p>PSI Nuclear Energy and Safety Research Devision PhD Day Competition co-sponsored by Swiss Nuclear Forum.</p></li>
+              <p>PSI Nuclear Energy and Safety Research Devision PhD Day Competition co-sponsored by Swiss Nuclear Forum in Villigen, Switzerland</p></li>
             <li>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               European Master of Science in Nuclear Engineering (EMSNE) - March 2016</li>
-              <p>European Nuclear Education Network Association</p>
+              <p>European Nuclear Education Network Association in Vienna, Austria</p>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Graduation with Mention Trés Bien - September 2015</li>
-              <p>Insitute Nationale des Sciences et Techniques Nucléaires (CEA-INSTN), Gif-Sur-Yvette</p>
+              <p>Université Paris Sud (Paris XI) in Paris, France</p>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Excellence Scholarship - September 2013 until September 2015</li>
-              <p>European Institute of Innovation and Technology (EIT), KIC InnoEnergy, EU Commission <br>
-              Awarded the Excellence Scholarship for the Double Degree Master of Science "European Master in Nuclear Energy" (EMINE) (corresponding to ~23 000 CHF)</p>
+              <p>Awarded the Excellence Scholarship for the Double Degree Master of Science "European Master in Nuclear Energy" (EMINE) (corresponding to ~23 000 CHF) <br> European Institute of Innovation and Technology (EIT), KIC InnoEnergy, EU Commission</p>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Reiss-Engelhorn Foundation Scholarship - October 2009 until October 2012</li>
-              <p>Reiss-Engelhorn Foundation</p>
+              <p>Reiss-Engelhorn Foundation in Mannheim, Germany</p>
            <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
               Award for outstanding high school performance (1.0 / 6.0)</li>
-              <p>Kolleg St. Sebastian Stegen</p>
+              <p>Kolleg St. Sebastian in Stegen, Germany</p>
           </ul>
         </div>
       </section>
