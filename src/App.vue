@@ -129,7 +129,7 @@
               </ul>
               <span class="text-primary">List of publications:</span><br>
               <ul>
-                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Thermal analysis, design, and testing of a rotating beam target for a compact D-D fast neutron generator”, Applied Radiation and Isotopes, Volume 145, Pages 47-54, ISSN 0969-8043, <a href='https://doi.org/10.1016/j.apradiso.2018.12.009.2019' target="_blank">doi</a>, 2019.</li>
+                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Thermal analysis, design, and testing of a rotating beam target for a compact D-D fast neutron generator”, Applied Radiation and Isotopes, Volume 145, Pages 47-54, ISSN 0969-8043, <a href='https://doi.org/10.1016/j.apradiso.2018.12.009' target="_blank">doi</a>, 2019.</li>
                 <li>B. Soubelet, R. Adams, H. Kromer, R. Zboray, and H. M. Prasser, “Feasibility study of using a compact deuterium-deuterium (D-D) neutron generator for energy-selective transmission tomography”, Radiation Physics and Chemistry, Volume 156, Pages 292-299, ISSN 0969-806X, <a href='https://doi.org/10.1016/j.radphyschem.2018.11.017' target="_blank">doi</a>, 2019.</li>
                 <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Improvement of a Compact Fast Neutron Generator for Imaging Applications,” Conference proceedings of IEEE Nuclear Science Symposium and Medical Imaging Conference Sydney, Australia, 2018.</li>
                 <li>R. Adams, B. Soubelet, H. Kromer, R. Zboray, H.M. Prasser, V. Petrov, A. Manera, "Development of tomography techniques using a compact fast neutron generator," Conference proceedings of World Congress on Industrial Process Tomography, UK, 2018.</li>
@@ -221,16 +221,19 @@
               Issued Aug 2018<br>
               <a href='https://www.youracclaim.com/badges/855a71e9-82a9-4a73-bbc1-047057e557cb/linked_in_profile' class="test-primary" target="_blank">Credential</a>
             </li>
+            <br>
             <li>
               <h5>Applied AI with Deep Learning</h5>
               Issued Jul 2018<br>
               <a href='https://www.youracclaim.com/badges/6d12fa54-2b40-4560-ad1d-7e750983c135/linked_in_profile' class="test-primary" target="_blank">Credential</a>
             </li>
+            <br>
             <li>
               <h5>Fundamentals of Scalable Data Science</h5>
               Issued Jun 2018<br>
               <a href='https://www.coursera.org/account/accomplishments/verify/9F6DSY8TD53V' class="test-primary" target="_blank">Credential</a>
             </li>
+            <br>
             <li>
               <h5>Applied Data Science with Python Specialization</h5>
               Issued May 2018<br>
