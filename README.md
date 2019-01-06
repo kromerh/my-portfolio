@@ -5,6 +5,43 @@ https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-
 https://github.com/oleg-agapov/my-portfolio
 https://github.com/derwentx/portfolio-files
 
+
+
+# Installation of vue
+
+Taken from https://gist.github.com/nerdenough/d288f2e732637f55f9858070c6b8b15b
+
+### Install Homebrew
+
+Open terminal and run the follow command to install the latest version of Homebrew. 
+This will also install the XCode utils if you don't have them already installed.
+
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+### Install Git
+
+`brew install git`
+
+### Install Node Version Manager
+
+Use the install script to install nvm. To do this, run the following in terminal.
+
+`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash`
+
+### Add nvm to bash profile
+
+To make use of the Node Version Manager through its `nvm` command, you need to add the following to your `~/.bash_profile` file.
+Create a new file if it does not already exist.
+
+```
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
+```
+
+### Install Node
+
+Run `nvm install node` in terminal. Once installed, you should be able to run both `node -v` and `npm -v` to see their versions.
+
 ## Steps to create the files locally
 - Initiate the vue
   - `vue init webpack my-portfolio`
