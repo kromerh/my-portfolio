@@ -74,8 +74,8 @@ This will not work, because by default the default path of the github pages is k
 # ToDo
 
 - [x] Add languages
-- [ ] Add publications
-- [ ] Add Projects
-- [ ] Check social links
-- [ ] Add Coursera
+- [x] Add publications
+- [x] Add Projects
+- [x] Check social links
+- [x] Add Coursera
 
