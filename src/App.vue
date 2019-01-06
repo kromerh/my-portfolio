@@ -213,7 +213,16 @@
               Code: <a href='https://github.com/kromerh/coursera.ibm.capstone' class="test-primary" target="_blank">GitHub</a><br>
               Introductory Kaggle prediction competition using a dataset of the sinking of the famous RMS Titanic. The challenge asks to complete the analysis of what sorts of passengers on board were likely to survive, based on features such as Age, Gender, Fare ticket price, Travel class, (...). I have completed the competition setting up a series of jupyter notebooks including data exploration, data extraction, feature engineering, and model definition. For this binary classification problem, I have chosen a RandomForestClassifier. The first submission resulted in a score of 0.79.
           </li>
-        </ul>
+          </ul>
+          <div class="subheading mb-5"><h3>Fast Neutron Generator Monitoring System</h3></div>
+          <ul class="mb-4">
+            <li>
+              <h5>Dash Neutron Generator</h5>
+              Code: <a href='https://github.com/kromerh/dash_NG' class="test-primary" target="_blank">GitHub</a><br>
+              Monitoring and control system of a compact deuterium-deuterium fast neutron generator using flask, dash, plotly, mysql, RaspberryPis, Arduinos, code written in C++ and Python
+          </li>
+          </ul>
+
           <div class="subheading mb-5"><h3>Coursera</h3></div>
           <ul class="mb-4">
             <li>
