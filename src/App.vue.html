@@ -22,6 +22,9 @@
             <a class="nav-link js-scroll-trigger" href="#education">Education</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li>
           <li class="nav-item">
@@ -124,6 +127,13 @@
                 <li>Attended international scientific conferences as speaker</li>
                 <li>Lead exercise sessions as teaching assistant and participated in oral examinations as third co-examiner</li>
               </ul>
+              <span class="text-primary">List of publications:</span><br>
+              <ul>
+                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Thermal analysis, design, and testing of a rotating beam target for a compact D-D fast neutron generator”, Applied Radiation and Isotopes, Volume 145, Pages 47-54, ISSN 0969-8043, <a href='https://doi.org/10.1016/j.apradiso.2018.12.009.2019' target="_blank">doi</a>, 2019.</li>
+                <li>B. Soubelet, R. Adams, H. Kromer, R. Zboray, and H. M. Prasser, “Feasibility study of using a compact deuterium-deuterium (D-D) neutron generator for energy-selective transmission tomography”, Radiation Physics and Chemistry, Volume 156, Pages 292-299, ISSN 0969-806X, <a href='https://doi.org/10.1016/j.radphyschem.2018.11.017' target="_blank">doi</a>, 2019.</li>
+                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Improvement of a Compact Fast Neutron Generator for Imaging Applications,” Conference proceedings of IEEE Nuclear Science Symposium and Medical Imaging Conference Sydney, Australia, 2018.</li>
+                <li>R. Adams, B. Soubelet, H. Kromer, R. Zboray, H.M. Prasser, V. Petrov, A. Manera, "Development of tomography techniques using a compact fast neutron generator," Conference proceedings of World Congress on Industrial Process Tomography, UK, 2018.</li>
+              </ul>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">February 2016 - February 2020</span>
@@ -192,6 +202,51 @@
         </div>
       </section>
 
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
+        <div class="my-auto">
+          <h3 class="mb-5">Projects</h3>
+
+          <div class="subheading mb-5"><h3>Kaggle</h3></div>
+          <ul class="mb-4">
+            <li>
+              <h5>Titanic: Machine Learning from Disaster</h5>
+              Code: <a href='https://github.com/kromerh/coursera.ibm.capstone' class="test-primary" target="_blank">GitHub</a><br>
+              Introductory Kaggle prediction competition using a dataset of the sinking of the famous RMS Titanic. The challenge asks to complete the analysis of what sorts of passengers on board were likely to survive, based on features such as Age, Gender, Fare ticket price, Travel class, (...). I have completed the competition setting up a series of jupyter notebooks including data exploration, data extraction, feature engineering, and model definition. For this binary classification problem, I have chosen a RandomForestClassifier. The first submission resulted in a score of 0.79.
+          </li>
+        </ul>
+          <div class="subheading mb-5"><h3>Coursera</h3></div>
+          <ul class="mb-4">
+            <li>
+              <h5>Advanced Machine Learning and Signal Processing</h5>
+              Issued Aug 2018<br>
+              <a href='https://www.youracclaim.com/badges/855a71e9-82a9-4a73-bbc1-047057e557cb/linked_in_profile' class="test-primary" target="_blank">Credential</a>
+            </li>
+            <li>
+              <h5>Applied AI with Deep Learning</h5>
+              Issued Jul 2018<br>
+              <a href='https://www.youracclaim.com/badges/6d12fa54-2b40-4560-ad1d-7e750983c135/linked_in_profile' class="test-primary" target="_blank">Credential</a>
+            </li>
+            <li>
+              <h5>Fundamentals of Scalable Data Science</h5>
+              Issued Jun 2018<br>
+              <a href='https://www.coursera.org/account/accomplishments/verify/9F6DSY8TD53V' class="test-primary" target="_blank">Credential</a>
+            </li>
+            <li>
+              <h5>Applied Data Science with Python Specialization</h5>
+              Issued May 2018<br>
+              <a href='https://www.coursera.org/account/accomplishments/specialization/DZAQLF68W2PW' class="test-primary" target="_blank">Credential</a>
+              <ul>
+                <li>Applied Social Network Analysis in Python</li>
+                <li>Applied Text Mining in Python</li>
+                <li>Applied Machine Learning in Python</li>
+                <li>Applied Plotting, Charting & Data Representation in Python</li>
+              </ul>
+            </li>
+
+          </ul>
+        </div>
+      </section>
+
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
           <h3 class="mb-5">Skills</h3>
@@ -211,7 +266,7 @@
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
             <h5>Microsoft Windows and Office <i class="devicons devicons-windows"></i></h5>
             Level: <span class="text-primary">Proficient User</span><br>
-            Experience with: <span class="text-primary">Windows 2000, 7, 10</span>
+            Experience with: <span class="text-primary">Windows 2000, 7, 10, Word, Excel, PowerPoint, Outlook</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
             <h5>SQL <i class="devicons devicons-mysql"></i></h5>
@@ -226,7 +281,7 @@
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
             <h5>Git <i class="devicon-git-plain"></i></h5>
             Level: <span class="text-primary">Intermediate</span><br>
-            Experience with: <span class="text-primary"><a href='https://github.com/kromerh'>GitHub</a>, bitbucket</span>
+            Experience with: <span class="text-primary"><a href='https://github.com/kromerh' target="_blank">GitHub</a>, bitbucket</span>
           </li>
           <li class="mb-3"><i class="fa-li fa fa-check"></i>
               <h5>C++ <i class="devicon-cplusplus-plain"></i></h5>
