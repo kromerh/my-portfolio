@@ -129,10 +129,10 @@
               </ul>
               <span class="text-primary">List of publications:</span><br>
               <ul>
-                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Thermal analysis, design, and testing of a rotating beam target for a compact D-D fast neutron generator”, Applied Radiation and Isotopes, Volume 145, Pages 47-54, ISSN 0969-8043, <a href='https://doi.org/10.1016/j.apradiso.2018.12.009' target="_blank">doi</a>, 2019.</li>
-                <li>B. Soubelet, R. Adams, H. Kromer, R. Zboray, and H. M. Prasser, “Feasibility study of using a compact deuterium-deuterium (D-D) neutron generator for energy-selective transmission tomography”, Radiation Physics and Chemistry, Volume 156, Pages 292-299, ISSN 0969-806X, <a href='https://doi.org/10.1016/j.radphyschem.2018.11.017' target="_blank">doi</a>, 2019.</li>
-                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Improvement of a Compact Fast Neutron Generator for Imaging Applications,” Conference proceedings of IEEE Nuclear Science Symposium and Medical Imaging Conference Sydney, Australia, 2018.</li>
-                <li>R. Adams, B. Soubelet, H. Kromer, R. Zboray, H.M. Prasser, V. Petrov, A. Manera, "Development of tomography techniques using a compact fast neutron generator," Conference proceedings of World Congress on Industrial Process Tomography, UK, 2018.</li>
+                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Thermal analysis, design, and testing of a rotating beam target for a compact D-D fast neutron generator”, Applied Radiation and Isotopes, Volume 145, Pages 47-54, ISSN 0969-8043, <a href='https://doi.org/10.1016/j.apradiso.2018.12.009' target="_blank">DOI</a>, 2019.</li>
+                <li>B. Soubelet, R. Adams, H. Kromer, R. Zboray, and H. M. Prasser, “Feasibility study of using a compact deuterium-deuterium (D-D) neutron generator for energy-selective transmission tomography”, Radiation Physics and Chemistry, Volume 156, Pages 292-299, ISSN 0969-806X, <a href='https://doi.org/10.1016/j.radphyschem.2018.11.017' target="_blank">DOI</a>, 2019.</li>
+                <li>H. Kromer, R. Adams, B. Soubelet, R. Zboray, and H. M. Prasser, “Improvement of a Compact Fast Neutron Generator for Imaging Applications”, Conference proceedings of IEEE Nuclear Science Symposium and Medical Imaging Conference Sydney, Australia, 2018.</li>
+                <li>R. Adams, B. Soubelet, H. Kromer, R. Zboray, H.M. Prasser, V. Petrov, A. Manera, "Development of tomography techniques using a compact fast neutron generator", Conference proceedings of World Congress on Industrial Process Tomography, UK, 2018.</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
