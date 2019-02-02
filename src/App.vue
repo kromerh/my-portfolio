@@ -146,7 +146,7 @@
               <div class="subheading mb-3">Master of Science in Nuclear Reactor Physics and Engineering</div>
               <p>Second part of the European Union program "European Master in Nuclear Energy" (EMINE).</p>
               <p>Master thesis "Experimental Determination of Model Parameters for Subcooled Nucleate Flow Boiling" at ABB Corporate Research in Västeras, Sweden. Grade: 20.0 / 20.0</p>
-              <p>Final Grade: 16.2 / 20.0 with distinction "mention très bien"</p>
+              <p>Final Grade: 16.2 / 20.0 with distinction "mention trés bien"</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">September 2014 - September 2015</span>
@@ -405,7 +405,7 @@ export default {
       surname: 'Kromer',
       address: '+41 (0) 77 476 99 79 ·',
       email: 'heiko.kromer@gmail.com',
-      aboutMe: 'I am a doctoral student in Nuclear Engineering at the Swiss Federal Institute of Technology (ETH) in Zürich. In my project I am optimizing the mechanical design of a compact deuterium-deuterium fast neutron generator for imaging applications. I am planning, conducting and analyzing experiments and employing computational tools including Python, MCNP6 and COMSOL Multiphysics to improve the high voltage, high vacuum, ion optics, heat transfer, and overall design of the neutron generator. During my education as a physicist and engineer I learned to acquire, visualize, analyze and interpret large datasets to solve a wide array of challenging problems.',
+      aboutMe: 'I am a doctoral student in Nuclear Engineering in the Laboratory of Nuclear Energy Systems at the Swiss Federal Institute of Technology (ETH) in Zurich, Switzerland. In my project I am optimizing the mechanical design of a compact deuterium-deuterium fast neutron generator for imaging applications. I am planning, conducting and analyzing experiments and employing computational tools including Python, MCNP6 and COMSOL Multiphysics to improve the high voltage, high vacuum, ion optics, heat transfer, and overall design of the neutron generator. During my education as a physicist and engineer I learned to acquire, visualize, analyze and interpret large datasets to solve a wide array of challenging problems.',
       experience: [
         {
           position: 'Doctoral Student',
@@ -425,9 +425,9 @@ export default {
           endDate: 'February 2020'
         },
         {
-          position: 'Co-Vice President of Technology',
+          position: 'Vice President of Technology',
           company: 'Telejob (AVETH) in Zürich, Switzerland',
-          description: 'I am currently serving as Co-Vice President of Technology and Head of Data Analytics at Telejob. Telejob is a non-profit organization of ETH Zürich, which aims to reach and connect students and employers - companies as well as universities - in Switzerland. Telejob is run mainly by student volunteers.',
+          description: 'I am currently serving as Vice President of Technology. Formerly, I was Head of Data Analytics at Telejob. Telejob is a non-profit organization of ETH Zürich, which aims to reach and connect students and employers - companies as well as universities - in Switzerland. Telejob is run mainly by student volunteers.',
           items: [
             'Implemented and supported Google G-Suite in the organization',
             'Took on the role of administrator of Linux based web servers and MySQL databases',
@@ -437,7 +437,7 @@ export default {
 
           ],
           startDate: 'November 2017',
-          endDate: 'February 2019'
+          endDate: 'March 2019'
         },
         {
           position: 'Firefighter',
