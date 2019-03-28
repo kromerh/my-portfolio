@@ -64,8 +64,14 @@ Run `nvm install node` in terminal. Once installed, you should be able to run bo
 
 - set up src/assets/resume.css (taken from https://github.com/derwentx/portfolio-files)
 
-- dev: `npm run dev`
-- build: `npm run build`
+- dev mode: `npm run dev`
+
+
+## Publish
+
+- after running the build command: `npm run build` locate the files in `./dist/*`
+
+- copy the content to `kromerh.github.io`-folder and push both
 
 ## Note on hosting repository github sites:
 
