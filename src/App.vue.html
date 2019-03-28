@@ -399,7 +399,7 @@ export default {
       experience: [
         {
           position: 'Scientific Assistant',
-          company: 'Laboratory for Nuclear Energy Systems, ETH Zürich',
+          company: 'Laboratory for Nuclear Energy Systems, ETH Zürich, Switzerland',
           items: [
             'Set up a Python-based real time data acquisition system into a MySQL database using RaspberryPis',
             'Developed and deployed a real time data visualization tool using flask, dash and plotly using SQL queries to monitor the fast neutron generator system',
