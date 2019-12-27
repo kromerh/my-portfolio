@@ -126,7 +126,7 @@
               </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">February 2016 - February 2020</span>
+              <span class="text-primary">February 2016 - July 2020</span>
             </div>
           </div>
 
@@ -136,7 +136,7 @@
               <div class="subheading mb-3">Master of Science in Nuclear Reactor Physics and Engineering</div>
               <p>Second part of the European Union program "European Master in Nuclear Energy" (EMINE).</p>
               <p>Master thesis "Experimental Determination of Model Parameters for Subcooled Nucleate Flow Boiling" at ABB Corporate Research in Västeras, Sweden. Grade: 18.0 / 20.0</p>
-              <p>Final Grade: 16.2 / 20.0 with distinction "mention trés bien"</p>
+              <p>Final Grade: 16.2 / 20.0 with distinction "mention très bien"</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">September 2014 - September 2015</span>
@@ -195,6 +195,27 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
         <div class="my-auto">
           <h3 class="mb-5">Projects</h3>
+          <div class="subheading mb-5"><h3>Digit classification on a turbomolecular pump display using KERAS</h3></div>
+          <ul class="mb-4">
+            <li>
+              <h5>displayReadout</h5>
+            <div class="col-md-5">
+              <img class="img-fluid rounded mb-3 mb-md-0"  src="./assets/classified_digits.png" alt="Digit classification" width="200px">
+            </div>
+              Article: <a href='https://kyso.io/heiko/digit-classification-on-the-display-of-a-turbomolecular-pump-using-a-keras-model-trained-on-the-svhn-dataset' class="test-primary" target="_blank">kyso.io</a><br>
+              Code: <a href='https://github.com/kromerh/displayreadout' class="test-primary" target="_blank">GitHub</a><br>
+              Digit classification on images recorded with an IP camera of a turbomolecular pump display using KERAS trained on house number digits from the SVHN dataset.
+          </li>
+          </ul>
+
+          <div class="subheading mb-5"><h3>Python snake temperature and humidity monitor</h3></div>
+          <ul class="mb-4">
+            <li>
+              <h5>Paulisasnake</h5>
+              Code: <a href='https://github.com/kromerh/paulisasnake' class="test-primary" target="_blank">GitHub</a><br>
+              Temperature and humidity sensor using a SmartGadget from Sensirion and a Raspberry Pi 3 to monitor the temperature and humidity inside a python enclosure. The data is stored in a MongoDB database and visualized using flask, dash, and plotly.
+          </li>
+          </ul>
 
           <div class="subheading mb-5"><h3>Kaggle</h3></div>
           <ul class="mb-4">
@@ -215,6 +236,25 @@
 
           <div class="subheading mb-5"><h3>Coursera</h3></div>
           <ul class="mb-4">
+            <li>
+              <h5>Machine Learning</h5>
+              Issued Dec 2019<br>
+              <a href='https://www.coursera.org/account/accomplishments/verify/QN6ZAY32G7NH?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long' class="test-primary" target="_blank">Credential</a>
+            </li>
+            <br>
+            <li>
+              <h5>Business Statistics and Analysis Specialization</h5>
+              Issued Aug 2019<br>
+              <a href='https://www.coursera.org/account/accomplishments/specialization/6FYCFSA8QVBZ' class="test-primary" target="_blank">Credential</a>
+              <ul>
+                <li>Introduction to Data Analysis using Excel</li>
+                <li>Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</li>
+                <li>Business Applications of Hypothesis Testing and Confidence Interval Estimation</li>
+                <li>Linear Regression for Business Statistics</li>
+                <li>Business Statistics and Analysis Capstone</li>
+              </ul>
+            </li>
+            <br>
             <li>
               <h5>Advanced Machine Learning and Signal Processing</h5>
               Issued Aug 2018<br>
@@ -244,7 +284,14 @@
                 <li>Applied Plotting, Charting & Data Representation in Python</li>
               </ul>
             </li>
-
+          </ul>
+          <div class="subheading mb-5"><h3>DataCamp</h3></div>
+          <ul class="mb-4">
+            <li>
+              <h5>Data Scientist with Python Track</h5>
+              Issued Jun 2019<br>
+              Statement of accomplishment: <a href='https://www.datacamp.com/statement-of-accomplishment/track/5bd23feae9a666ff0089c456a9bd24f6272d84f1?share=1' class="test-primary" target="_blank">Credential</a>
+          </li>
           </ul>
         </div>
       </section>
@@ -302,7 +349,7 @@
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
-              Monte Carle Nuclear Transport Code (MCNP6)</li>
+              Monte Carlo Nuclear Transport Code (MCNP6)</li>
             <li>
               <i class="fa-li fa fa-check"></i>
               COMSOL Multiphysics CFD, heat transfer, electrostatics, and charged particle tracking module</li>
@@ -364,7 +411,7 @@
               <p>European Nuclear Education Network Association in Vienna, Austria</p>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              Graduation with Mention Trés Bien - September 2015</li>
+              Graduation with Mention Très Bien - September 2015</li>
               <p>Université Paris Sud (Paris XI) in Paris, France</p>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
@@ -399,7 +446,7 @@ export default {
       experience: [
         {
           position: 'Scientific Assistant',
-          company: 'Laboratory for Nuclear Energy Systems, ETH Zürich, Switzerland',
+          company: 'Laboratory for Nuclear Energy Systems, ETH Zürich, Switzerland, and Laborator for Reactor Physics and Thermal Hydraulics (contract change)',
           items: [
             'Set up a Python-based real time data acquisition system into a MySQL database using RaspberryPis',
             'Developed and deployed a real time data visualization tool using flask, dash and plotly using SQL queries to monitor the fast neutron generator system',
@@ -409,7 +456,7 @@ export default {
             'Published journal papers in international peer reviewed journals'
           ],
           startDate: 'February 2016',
-          endDate: 'February 2020'
+          endDate: 'July 2020'
         },
         {
           position: 'Vice President of Technology',
